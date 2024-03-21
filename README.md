@@ -13,22 +13,22 @@ Antes de começar, certifique-se de ter uma conta na IBM Cloud e ter criado um s
    ```bash
    git clone https://github.com/seu-usuario/projeto-watson-text-to-speech.git
 2. Você precisa ter instalado o NodeJS
-   Passe o seguinte código no terminal.  
-        npm install ibm-watson   
+   Passe o seguinte código no terminal. <br /> 
+        ` npm install ibm-watson`    <br />
    Isso instalará a biblioteca necessária para interagir com o serviço Watson Text to Speech.
-
+<br /><br />
    Passe o seguinte código no terminal.  
-        npm install mic 
+        `npm install mic` 
    O comando "npm install mic" é usado no Node.js para instalar o pacote chamado "mic". Este pacote é uma biblioteca Node.js que fornece uma interface para gravar áudio usando o microfone do sistema.
-
+<br /><br />
    Passe o seguinte código no terminal. <br />
-         npm install watson-developer-cloud –save <br />
+         `npm install watson-developer-cloud –save` <br />
    O comando "npm install watson-developer-cloud --save" é utilizado no Node.js para instalar o pacote "watson-developer-cloud" e salvar essa dependência no arquivo "package.json" do seu projeto.
-
+<br /><br />
     Passe o seguinte código no terminal. <br />
-        npm install shelljs <br />
+        `npm install shelljs` <br />
     Comando npm install shelljs é usado para instalar o pacote ShellJS no seu projeto Node.js.
-
+<br /><br />
    Passe o seguinte código no terminal. <br />
-        Node fala.js <br />
+        `Node fala.js` <br />
    Isso iniciará a execução do script Node.js. Ele se conectará ao serviço Watson Text to Speech, converterá o texto especificado em áudio e salvará o arquivo de áudio como output.wav na mesma pasta onde o script está localizado. 
