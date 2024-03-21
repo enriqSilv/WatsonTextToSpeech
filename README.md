@@ -8,6 +8,10 @@ Antes de começar, certifique-se de ter uma conta na IBM Cloud e ter criado um s
 
 ## Instalação e Configuração
 
+Antes de iniciarmos, faça download do Node.js - https://nodejs.org/en  
+
+Instale também o sox - https://sourceforge.net/projects/sox/files/sox/14.4.1/ 
+
 1. Clone este repositório em sua máquina local:
 
    ```bash
