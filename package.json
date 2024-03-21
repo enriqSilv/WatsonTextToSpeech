@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ibm-watson": "^9.0.1",
+    "mic": "^2.1.2",
+    "watson-developer-cloud": "^4.0.1"
+  }
+}
