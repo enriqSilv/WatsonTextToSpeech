@@ -17,8 +17,8 @@ Antes de começar, certifique-se de ter uma conta na IBM Cloud e ter criado um s
         ` npm install ibm-watson`    <br />
    Isso instalará a biblioteca necessária para interagir com o serviço Watson Text to Speech.
 <br /><br />
-   Passe o seguinte código no terminal.  
-        `npm install mic` 
+   Passe o seguinte código no terminal.  <br />
+        `npm install mic` <br />
    O comando "npm install mic" é usado no Node.js para instalar o pacote chamado "mic". Este pacote é uma biblioteca Node.js que fornece uma interface para gravar áudio usando o microfone do sistema.
 <br /><br />
    Passe o seguinte código no terminal. <br />
