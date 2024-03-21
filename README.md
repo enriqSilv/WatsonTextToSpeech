@@ -21,14 +21,14 @@ Antes de começar, certifique-se de ter uma conta na IBM Cloud e ter criado um s
         npm install mic 
    O comando "npm install mic" é usado no Node.js para instalar o pacote chamado "mic". Este pacote é uma biblioteca Node.js que fornece uma interface para gravar áudio usando o microfone do sistema.
 
-   Passe o seguinte código no terminal. 
-         npm install watson-developer-cloud –save 
+   Passe o seguinte código no terminal. <br />
+         npm install watson-developer-cloud –save <br />
    O comando "npm install watson-developer-cloud --save" é utilizado no Node.js para instalar o pacote "watson-developer-cloud" e salvar essa dependência no arquivo "package.json" do seu projeto.
 
-    Passe o seguinte código no terminal. 
-        npm install shelljs 
+    Passe o seguinte código no terminal. <br />
+        npm install shelljs <br />
     Comando npm install shelljs é usado para instalar o pacote ShellJS no seu projeto Node.js.
 
-   Passe o seguinte código no terminal. 
-        Node fala.js 
+   Passe o seguinte código no terminal. <br />
+        Node fala.js <br />
    Isso iniciará a execução do script Node.js. Ele se conectará ao serviço Watson Text to Speech, converterá o texto especificado em áudio e salvará o arquivo de áudio como output.wav na mesma pasta onde o script está localizado. 
